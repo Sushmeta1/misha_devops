@@ -48,7 +48,7 @@ int main() {
                 }
                 break;
             default:
-                printf("Invalid operator!\n");
+                printf("Invalid operator!\n");   //default
                 return 1;
         }
         
