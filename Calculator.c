@@ -1,5 +1,4 @@
-
-#include <stdio.h>
+#include <stdio.h>     //preprocesor 
 #include <math.h>
 
 int main() {
