@@ -1,4 +1,4 @@
-#include <stdio.h>     //preprocesor 
+#include <stdio.h>     //preprocesor directive to include standard input output header file
 #include <math.h>
 
 int main() {
@@ -51,7 +51,7 @@ int main() {
                 return 1;
         }
         
-        printf("The result is: %.2lf\n", result);
+        printf("The result is: %.2lf\n", result);  //result
     }
     return 0;
 }
